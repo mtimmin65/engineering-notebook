@@ -37,7 +37,7 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture.PNG" width="500">
 
-### Reflection
+### the mass of my deck is 2.663 pounds, no because everthing is fully defined so the holes would not move.
 
 
 
@@ -49,7 +49,7 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture1.PNG" width="500">
 
-### the mass of my deck is 2.663 pounds, no because everthing is fully defined so the holes would not move.
+### 
 
 
 ---
