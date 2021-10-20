@@ -28,20 +28,29 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
 ~~~
 
-You will then write each assignment using this template:
-~~~
+
+## skateboard deck
+
+### this is the deck i desinged following the instructions that were given
+
+### Evidence
+
+### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture.PNG" width="500">
+
+### Reflection
+
+
 
 ## AssignmentName
 
 ### Description
-#Engineering Notebook
-
 
 ### Evidence
 
-### Image
+### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture1.PNG" width="500">
 
-### Reflection
+### the mass of my deck is 2.663 pounds, no because everthing is fully defined so the holes would not move.
+
 
 ---
 ~~~
