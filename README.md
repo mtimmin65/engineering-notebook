@@ -49,7 +49,7 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture1.PNG" width="500">
 
-### 
+### the trucks are .619 puonds, nothing really tripped me up it was cool to have different parts in one part studio.
 
 
 ---
