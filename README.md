@@ -55,13 +55,35 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 
 
-## name
+## Hello_CircuitPython
 
-### discription
+### Description & Code
+this assingment was making an led turn red and blue.
 
-### evidence
 
-### <img src="" width="500">
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+
+print("Make it red!")
+dot.brightness=0.2
+while True:
+dot.fill((255,0,0))
+time.sleep(.5)
+print("Make it red!")
+dot.brightness=0.2
+dot.fill((0,0,255))
+time.sleep(.5)
+
+
+### Evidence
+<img src="<img src="https://github.com/mtimmin65/engineering-notebook/blob/main/IMG-202814240%20(1).gif" width="500">
+
+
+
+### Wiring
+there was no wiring for this assingment
+
+### reflection
+i didnt have any issues accept trying to figure out how to change the color.
 
 
 
