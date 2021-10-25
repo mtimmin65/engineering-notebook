@@ -97,12 +97,14 @@ while True:
 <img src="WIN-20210917-15-19-55-Pro (2).gif" alt="servodemo" width="500">
 
 ### Wiring
+<img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture8.PNG" alt="servodemo" width="500">
 
 ### Reflection
+this assingment was pretty simple i didnt have any isues with wiring or the code.
 
 
 
-## CircuitPython_LCD
+## CircuitPython_ultrasonic sensor
 
 This assignment was to make it so the distance on the ultrasonic sensor corresponds with the color displayed on the Metro board.
 
