@@ -10,24 +10,6 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 * [UsefulCircuitPythonStuff](#UsefulCircuitPythonStuff)
 
 
-## Template
-Your readme should start off with a header or title, then a short description of what this repo is.
-
-Then use a table of contents.  The name in the Parentheses must exactly match the name in the subheader, like this
-~~~
-## Table of Contents
-* [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
-* [Subassembly](#Subassembly)
-* [FinalAssembly](#FinalAssembly)
-
-~~~
-
 
 ## skateboard deck
 
@@ -80,6 +62,44 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 ### evidence
 
 ### <img src="" width="500">
+
+
+
+## CircuitPython_Servo
+
+### Description & Code
+
+```python
+"""CircuitPython Essentials Servo standard servo example"""
+import time
+import board
+import pwmio
+import servo
+
+# create a PWMOut object on Pin A2.
+pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
+
+# Create a servo object, my_servo.
+my_servo = servo.Servo(pwm)
+
+while True:
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+    for angle in range(180, 0, -5): # 180 - 0 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+
+```
+
+### Evidence
+
+<img src="WIN-20210917-15-19-55-Pro (2).gif" alt="servodemo" width="500">
+
+### Wiring
+
+### Reflection
+
 
 
 ---
