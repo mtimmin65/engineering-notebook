@@ -4,7 +4,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Template](#Template)
+* [skateboard deck](##skateboarddeck)
 * [Exemplars](#Exemplars)
 * [UsefulGitStuff](#UsefulGitStuff)
 * [UsefulCircuitPythonStuff](#UsefulCircuitPythonStuff)
