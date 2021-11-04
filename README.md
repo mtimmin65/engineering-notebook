@@ -1,6 +1,5 @@
 # EngineeringNotebook_Eng3
 
-This Tome of Knowledge is here to help my Engineering 3 kiddos do their best with writing an Engineering Notebook on GitHub.
 
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
@@ -13,7 +12,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 ## skateboard deck
 
-### this is the deck i desinged following the instructions that were given
+### this is the deck i desinged following the instructions that were given this helped me use some of the cad skills i learned last year and refreash my memory.
 
 ### Evidence
 
@@ -25,7 +24,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 ## trucks
 
-### theses are the skateboard trucks.
+### theses are the skateboard trucks i designed using fillets that i hadnt used in a while.
 
 ### Evidence
 
@@ -37,7 +36,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 ## wheels and bearings
 
-### these are my wheels and bearings
+### these are my wheels and bearings i had to use a revolve extrude which i hadnt done before.
 
 ### evidence
 
@@ -47,7 +46,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 
 ## complete skateboard
 
-### this is my complete skateboard
+### this is my complete skateboard i used the assembly page and i put mates in to make it look like it would if it gets made.
 
 ### evidence
 
@@ -58,7 +57,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 ## Hello_CircuitPython
 
 ### Description & Code
-this assingment was making an led turn red and blue.
+this assingment was making an led turn red and blue using the led on the adifruit metro.
 
 
 dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
