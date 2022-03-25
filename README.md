@@ -14,7 +14,7 @@
 
 ### Description 
 
-!This is the deck I desinged following the instructions that were given this helped me use some of the cad skills i learned last year and refresh my memory.
+This assignment was to make a skateboard this is the deck.
 
 ### Evidence
 
@@ -22,11 +22,13 @@
 
 ### Reflection 
 
+This assignment was helpful because it used some mirroring and filleting techniques.
+
 ## Trucks
 
 ### Description
 
-!theses are the skateboard trucks i designed using fillets that i hadnt used in a while.
+These are the trucks I have made my skateboard project.
 
 ### Evidence
 
@@ -34,30 +36,35 @@
 
 ### Reflection
 
+This assignment was difficult because I had to figure out how to use the revolve tool and a lot of fillets and interlocking peices.
 
 ## Wheels and Bearings
 
 ### Description
 
-!these are my wheels and bearings i had to use a revolve extrude which i hadnt done before.
+These are My wheels and bearings i had to use a revolve extrude which i hadnt done before.
 
 ### Evidence
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture4.PNG" width="500">
 
+### Reflection
 
+This assignment was difficult because I had to figure out how to use the revolve tool to be a certain radius.
 
 ## Complete skateboard
 
 ### Description 
 
-!this is my complete skateboard i used the assembly page and i put mates in to make it look like it would if it gets made.
+This is my complete skateboard which i have made puting together all of my parts.
 
 ### Evidence
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture5.PNG" width="500">
 
+### Reflection
 
+Overall I only had minor issues making this project and it was very fun and helpful in getting back into the swing of using cad.
 
 ## Hello_CircuitPython
 
@@ -84,8 +91,8 @@ time.sleep(.5)
 <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/IMG-202814240%20(1).gif" width="500">
 
 ### Reflection
-!i didnt have any issues accept trying to figure out how to change the color.
 
+I always have some sort of trouble with the code but ewith a little help I figured it out and got it working.
 
 ## CircuitPython_Servo
 
@@ -123,9 +130,8 @@ while True:
 <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture8.PNG" alt="servodemo" width="500">
 
 ### Reflection
-!this assingment was pretty simple i didnt have any isues with wiring or the code.
 
-
+The wiring for this assignment was hard to grasp at first but I found a good diagram online.
 
 ## CircuitPython_ultrasonic sensor
 
