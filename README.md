@@ -129,6 +129,8 @@ while True:
 
 ## CircuitPython_ultrasonic sensor
 
+### Description and Code
+
 This assignment was to make it so the distance on the ultrasonic sensor corresponds with the color displayed on the Metro board.
 
 ```python
