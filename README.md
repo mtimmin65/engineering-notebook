@@ -10,45 +10,50 @@
 
 
 
-## skateboard deck
+## Skateboard deck
 
-### this is the deck i desinged following the instructions that were given this helped me use some of the cad skills i learned last year and refreash my memory.
+### Description 
+
+!This is the deck I desinged following the instructions that were given this helped me use some of the cad skills i learned last year and refresh my memory.
 
 ### Evidence
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture.PNG" width="500">
 
-### the mass of my deck is 2.663 pounds, no because everthing is fully defined so the holes would not move.
+### Reflection 
 
+## Trucks
 
+### Description
 
-## trucks
-
-### theses are the skateboard trucks i designed using fillets that i hadnt used in a while.
+!theses are the skateboard trucks i designed using fillets that i hadnt used in a while.
 
 ### Evidence
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture1.PNG" width="500">
 
-### the trucks are .619 puonds, nothing really tripped me up it was cool to have different parts in one part studio.
+### Reflection
 
 
+## Wheels and Bearings
 
-## wheels and bearings
+### Description
 
-### these are my wheels and bearings i had to use a revolve extrude which i hadnt done before.
+!these are my wheels and bearings i had to use a revolve extrude which i hadnt done before.
 
-### evidence
+### Evidence
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture4.PNG" width="500">
 
 
 
-## complete skateboard
+## Complete skateboard
 
-### this is my complete skateboard i used the assembly page and i put mates in to make it look like it would if it gets made.
+### Description 
 
-### evidence
+!this is my complete skateboard i used the assembly page and i put mates in to make it look like it would if it gets made.
+
+### Evidence
 
 ### <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture5.PNG" width="500">
 
@@ -57,9 +62,10 @@
 ## Hello_CircuitPython
 
 ### Description & Code
-this assingment was making an led turn red and blue using the led on the adifruit metro.
 
+This assingment was making an led turn red and blue using the led on the adifruit metro.
 
+```
 dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
 
 print("Make it red!")
@@ -71,19 +77,14 @@ print("Make it red!")
 dot.brightness=0.2
 dot.fill((0,0,255))
 time.sleep(.5)
-
+```
 
 ### Evidence
-<img src="<img src="https://github.com/mtimmin65/engineering-notebook/blob/main/IMG-202814240%20(1).gif" width="500">
 
+<img src="https://github.com/mtimmin65/engineering-notebook/blob/main/IMG-202814240%20(1).gif" width="500">
 
-
-### Wiring
-there was no wiring for this assingment
-
-### reflection
-i didnt have any issues accept trying to figure out how to change the color.
-
+### Reflection
+!i didnt have any issues accept trying to figure out how to change the color.
 
 
 ## CircuitPython_Servo
@@ -118,10 +119,11 @@ while True:
 <img src="WIN-20210917-15-19-55-Pro (2).gif" alt="servodemo" width="500">
 
 ### Wiring
+
 <img src="https://github.com/mtimmin65/engineering-notebook/blob/main/Capture8.PNG" alt="servodemo" width="500">
 
 ### Reflection
-this assingment was pretty simple i didnt have any isues with wiring or the code.
+!this assingment was pretty simple i didnt have any isues with wiring or the code.
 
 
 
@@ -160,35 +162,8 @@ while True:
 ### Wiring
 
 <img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/Capture.1.PNG?raw=true" alt="CircuitPythonDistance" width="500">
-Capture.1.PNG
 
 ### Reflection
 
 This assignment was hard because I kept saving the code to a file on my computer and not my Metro board. I also used some code from another student and didn't adjust my wiring to fit their code which messed up my Ultrasonic sensor. 
 
-
----
-~~~
-
-This should create a repo that is structure similar to the thing you're reading right now.
----
-
-## Exemplars
-
-[This student did an awesome job with formatted snippets of his code, and really clear and well sized imaged](https://github.com/lmiller87/CircuitPython).  I didn't like the reflections or descriptions as much, too brief.
-
-[His first few reflections were AMAZING.](https://github.com/vwellmo57/CircuitPython/blob/master/README.md) but the second half tapered off.  Just look at the first couple reflections.
-
----
-
-## UsefulGitStuff
-
- For future use.
-
----
-
-## UsefulCircuitPythonStuff
-
-My former Engineering 3 Kiddos wanted you to have this webpage, they found this site was crucial in helping them figure out how to switch their brains from Arduino to Circuit Python. So bookmark this site!
-
-[Adafruit CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython/overview)
