@@ -26,7 +26,7 @@ This assignment was to make a skateboard using differnt skills. There are many d
 
 ### Reflection 
 
-This assignment was helpful because it used some mirroring and filleting techniques. This assignment took me about a day to finish.
+This assignment was helpful because it used some mirroring and filleting techniques. This assignment took me about a day to finish. I later used mirroring techniques in my robot arm project.
 
 ## Trucks
 
@@ -40,7 +40,7 @@ These are the trucks I have made my skateboard project. Using different onshape,
 
 ### Reflection
 
-This assignment was difficult because I had to figure out how to use the revolve tool. a lot of fillets and interlocking peices.
+This assignment was difficult because I had to figure out how to use the revolve tool. a lot of fillets and interlocking peices. It took a bit of trail and error but overall pretty interesting assignment.
 
 ## Wheels and Bearings
 
@@ -68,7 +68,7 @@ This is my complete skateboard which i have made puting together all of my parts
 
 ### Reflection
 
-Overall I only had minor issues making this project and it was very fun and helpful in getting back into the swing of using cad.
+Overall I only had minor issues making this project. It was very fun and helpful in getting back into the swing of using cad. I enjoyed this assignment.
 
 ## Hello_CircuitPython
 
@@ -96,7 +96,7 @@ time.sleep(.5)
 
 ### Reflection
 
-I always have some sort of trouble with the code but ewith a little help I figured it out and got it working.
+I always have some sort of trouble with the code. with a little help I figured it out and got it working. Using the internet and peers as reasources.
 
 ## CircuitPython_servo
 
@@ -135,7 +135,7 @@ while True:
 
 ### Reflection
 
-The wiring for this assignment was hard to grasp at first but I found a good diagram online.
+The wiring for this assignment was hard to grasp at first. I found a good diagram online. Using this diagram I worked through the previous issues and got it working.  
 
 ## CircuitPython_ultrasonic sensor
 
