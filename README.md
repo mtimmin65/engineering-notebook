@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [skateboard deck](##skateboarddeck)
+* [Skateboard deck](##skateboarddeck)
 * [Exemplars](#Exemplars)
 * [UsefulGitStuff](#UsefulGitStuff)
 * [UsefulCircuitPythonStuff](#UsefulCircuitPythonStuff)
