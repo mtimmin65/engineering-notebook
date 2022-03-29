@@ -18,7 +18,7 @@ https://cvilleschools.onshape.com/documents/baaa6163c1cb7c38eceaa847/w/88c5bf87b
 
 ### Description 
 
-This assignment was to make a skateboard this is the deck.
+This assignment was to make a skateboard using differnt skills. There are many different parts to this project. This is the deck.
 
 ### Evidence
 
@@ -26,13 +26,13 @@ This assignment was to make a skateboard this is the deck.
 
 ### Reflection 
 
-This assignment was helpful because it used some mirroring and filleting techniques.
+This assignment was helpful because it used some mirroring and filleting techniques. This assignment took me about a day to finish.
 
 ## Trucks
 
 ### Description
 
-These are the trucks I have made my skateboard project.
+These are the trucks I have made my skateboard project. Using different onshape, logical skills and following the step by step instructions.
 
 ### Evidence
 
@@ -40,7 +40,7 @@ These are the trucks I have made my skateboard project.
 
 ### Reflection
 
-This assignment was difficult because I had to figure out how to use the revolve tool and a lot of fillets and interlocking peices.
+This assignment was difficult because I had to figure out how to use the revolve tool. a lot of fillets and interlocking peices.
 
 ## Wheels and Bearings
 
