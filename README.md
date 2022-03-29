@@ -4,9 +4,12 @@
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [Skateboard deck](#skateboard-deck)
-* [Exemplars](#Exemplars)
-* [UsefulGitStuff](#UsefulGitStuff)
-* [UsefulCircuitPythonStuff](#UsefulCircuitPythonStuff)
+* [Trucks](#Trucks)
+* [Wheels and Bearings](#Wheels-and-Bearings)
+* [Complete Skateboard](#Complete-Skateboard)
+* [Hello_CircuitPython](#Hello_CircuitPython)
+* [CircuitPython_servo](#CircuitPython_servo)
+* [CircuitPython_ultrasonic sensor](#CircuitPython_ultrasonic sensor)
 
 
 
@@ -52,7 +55,7 @@ These are My wheels and bearings i had to use a revolve extrude which i hadnt do
 
 This assignment was difficult because I had to figure out how to use the revolve tool to be a certain radius.
 
-## Complete skateboard
+## Complete Skateboard
 
 ### Description 
 
@@ -94,7 +97,7 @@ time.sleep(.5)
 
 I always have some sort of trouble with the code but ewith a little help I figured it out and got it working.
 
-## CircuitPython_Servo
+##CircuitPython_servo
 
 ### Description & Code
 
