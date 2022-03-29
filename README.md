@@ -82,11 +82,11 @@ dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
 print("Make it red!")
 dot.brightness=0.2
 while True:
-dot.fill((255,0,0))
+dot.fill((255,0,0)) #Changes color to red
 time.sleep(.5)
-print("Make it red!")
+print("Make it Blue!")
 dot.brightness=0.2
-dot.fill((0,0,255))
+dot.fill((0,0,255)) #Chages color to blue
 time.sleep(.5)
 ```
 
@@ -103,7 +103,6 @@ I always have some sort of trouble with the code. with a little help I figured i
 ### Description & Code
 
 ```python
-"""CircuitPython Essentials Servo standard servo example"""
 import time
 import board
 import pwmio
@@ -158,9 +157,9 @@ while True:
     try:
         dist = sonar.distance
         print((dist))
-        r = max(min(15*(20-dist),255),0)
-        g = max(min(15*(dist-20),255),0)
-        b = max(min(-abs(15*(20-dist))+225,255),0)
+        r = max(min(15*(20-dist),255),0) #Change color to red
+        g = max(min(15*(dist-20),255),0) #Change color to green
+        b = max(min(-abs(15*(20-dist))+225,255),0) #Change color to green
         dot.fill((int(r), int(g), int(b)))
     except RuntimeError:
         print("Retrying!")
