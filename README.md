@@ -9,7 +9,7 @@
 * [Complete Skateboard](#Complete-Skateboard)
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_servo](#CircuitPython_servo)
-* [CircuitPython_ultrasonic sensor](#CircuitPython_ultrasonic sensor)
+* [CircuitPython_ultrasonic sensor](#CircuitPython_ultrasonic-sensor)
 
 
 
@@ -97,7 +97,7 @@ time.sleep(.5)
 
 I always have some sort of trouble with the code but ewith a little help I figured it out and got it working.
 
-##CircuitPython_servo
+## CircuitPython_servo
 
 ### Description & Code
 
