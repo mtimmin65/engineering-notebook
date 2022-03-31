@@ -11,8 +11,7 @@
 * [CircuitPython_servo](#CircuitPython_servo)
 * [CircuitPython_ultrasonic sensor](#CircuitPython_ultrasonic-sensor)
 
-### Onshape Link
-https://cvilleschools.onshape.com/documents/baaa6163c1cb7c38eceaa847/w/88c5bf87b941faebf976384e/e/ec18fe06272169d29210d203?aa=true
+### [Onshape Link](https://cvilleschools.onshape.com/documents/baaa6163c1cb7c38eceaa847/w/88c5bf87b941faebf976384e/e/ec18fe06272169d29210d203?aa=true)
 
 ## Skateboard deck
 
@@ -165,18 +164,18 @@ while True:
         print("Retrying!")
     time.sleep(0.1)
 ```
-@ezell38
+This is code from [elias zell](https://github.com/ezell38/Hello_CircuitPython)
 ### Evidence
      
 <img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/IMG-86812912-3 (1).gif?raw=true" alt="CircuitPython_LCD" width="500">
-@ezell38     
+This image is from [elias zell](https://github.com/ezell38/Hello_CircuitPython)
 
 ### Wiring
 
 <img src="https://github.com/ezell38/Hello_CircuitPython/blob/main/Images/Capture.1.PNG?raw=true" alt="CircuitPythonDistance" width="500">
-@ezell38
+This image is from This is code from [elias zell](https://github.com/ezell38/Hello_CircuitPython)
 
 ### Reflection
 
-This assignment was hard because I kept saving the code to a file on my computer and not my Metro board. I also used some code from another student and didn't adjust my wiring to fit their code which messed up my Ultrasonic sensor. 
+This assignment was hard because I kept saving the code to a file on my computer and not my Metro board. I also used some code from This is code from [elias zell](https://github.com/ezell38/Hello_CircuitPython) and didn't adjust my wiring to fit their code which messed up my Ultrasonic sensor. 
 
